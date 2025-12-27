@@ -34,6 +34,11 @@ I'm a frontend developer, passionate about creating intuitive web applications. 
 ## GitHub Contributions
 ![github-contributions](https://nirzak-streak-stats.vercel.app/?user=sheet848&theme=gotham&hide_border=false)
 
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-sheetalnaik)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheetalnaik848@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://sheetal-naik.vercel.app/)
+
 ---
 
 <div align="center">
