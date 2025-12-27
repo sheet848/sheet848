@@ -26,6 +26,12 @@ I'm a frontend developer, passionate about creating intuitive web applications. 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## GitHub Stats
+<!---![summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheet848&theme=github) -->
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheet848&theme=github)
+![top-languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheet848&theme=github)
+
+## GitHub Contributions
 ![github-contributions](https://nirzak-streak-stats.vercel.app/?user=sheet848&theme=gotham&hide_border=false)
 
 ---
